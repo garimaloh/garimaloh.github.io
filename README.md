@@ -1,3 +1,3 @@
-# garloh.github.io
+# garimaloh.github.io
  webpage
-https://garimaloh.github.io/garloh.github.io/index.html
+https://garimaloh.github.io/
